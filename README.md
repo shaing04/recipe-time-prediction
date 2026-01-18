@@ -1,8 +1,8 @@
-### UCSD CSE 158: Web Mining and Reccomender Systems Assignment #2
+# UCSD CSE 158: Web Mining and Reccomender Systems Assignment #2
 
-# Team Members: Susana Haing, Minnie Zhang, Rocio Saez
+### Team Members: Susana Haing, Minnie Zhang, Rocio Saez
 
-# Video Link: https://youtu.be/DnyAZ2vbtPQ
+### Video Link: https://youtu.be/DnyAZ2vbtPQ
 
 
 This project addresses the following components, which together define the scope and evaluation criteria of the work:
