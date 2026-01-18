@@ -1,7 +1,1 @@
-
-plan: 
-- category prediction, classifying whether a recipe is a
-
-future project ideas: 
-- predicting calories of a recipe based on ingredients and other variables
-
+Link to Youtube Video (Unlisted): https://youtu.be/DnyAZ2vbtPQ
